@@ -5,6 +5,7 @@ module SEL1(s, a, b, f);
 	output f;				// Selector data output
 
 	// Bool expr is: (!S && A) || (S && B)
+	// S = 0 -> A, S = 1 -> B
 
 	wire ns, nsa, sb;
 	not n0(ns, s);

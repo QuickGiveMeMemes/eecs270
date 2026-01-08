@@ -5,6 +5,11 @@ module Project1(
 	output [6:0] LEDR,
 	output [6:0] HEX0
 	);
+
+	// Button Press = 0
+	
+	Selector S(.sel(KEY), .A(SW[6:0]), .B(SW[16:10]), .F(LEDR));
+	not n[6:0](HEX0, LEDR);
 	
 
 endmodule // Project1

@@ -1,0 +1,10 @@
+|Majority
+a => m.IN0
+a => m.IN0
+b => m.IN1
+b => m.IN0
+c => m.IN1
+c => m.IN1
+m <= m.DB_MAX_OUTPUT_PORT_TYPE
+
+

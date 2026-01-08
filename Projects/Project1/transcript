@@ -1,0 +1,50 @@
+# Loading project Project1
+# Compile of Project1.v was successful.
+# Compile of SEL1.v failed with 1 errors.
+# Compile of Selector.v was successful.
+# Compile of TestBench1.v was successful with warnings.
+# 4 compiles, 1 failed with 1 error.
+# Compile of Project1.v was successful.
+# Compile of SEL1.v was successful.
+# Compile of Selector.v was successful.
+# Compile of TestBench1.v was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+# Compile of Project1.v was successful.
+# Compile of SEL1.v was successful.
+# Compile of Selector.v was successful.
+# Compile of TestBench1.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.TestBench1
+# vsim work.TestBench1 
+# Start time: 16:11:30 on Jan 07,2026
+# Loading work.TestBench1
+# Loading work.Selector
+# Loading work.SEL1
+add wave -position insertpoint  \
+sim:/TestBench1/KEY \
+sim:/TestBench1/SW \
+sim:/TestBench1/LEDR \
+sim:/TestBench1/HEX0
+run
+# Compile of Project1.v was successful.
+# Compile of SEL1.v was successful.
+# Compile of Selector.v was successful.
+# Compile of TestBench1.v was successful.
+# 4 compiles, 0 failed with no errors.
+run
+run
+# Compile of TestBench1.v was successful.
+vsim work.TestBench1
+# End time: 16:21:51 on Jan 07,2026, Elapsed time: 0:10:21
+# Errors: 0, Warnings: 7
+# vsim work.TestBench1 
+# Start time: 16:21:51 on Jan 07,2026
+# Loading work.TestBench1
+# Loading work.Selector
+# Loading work.SEL1
+add wave -position end  sim:/TestBench1/KEY
+add wave -position end  sim:/TestBench1/SW
+add wave -position end  sim:/TestBench1/LEDR
+run
+# End time: 16:31:22 on Jan 07,2026, Elapsed time: 0:09:31
+# Errors: 0, Warnings: 1

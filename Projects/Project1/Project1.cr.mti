@@ -1,0 +1,29 @@
+/mnt/x10/eecs270/eecs270/Projects/Project1/Project1.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project1/Project1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Project1
+
+Top level modules:
+	Project1
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project1/TestBench1.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project1/TestBench1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TestBench1
+
+Top level modules:
+	TestBench1
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project1/Selector.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project1/Selector.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Selector
+
+Top level modules:
+	Selector
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project1/SEL1.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project1/SEL1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SEL1
+
+Top level modules:
+	SEL1
+
+} {} {}}

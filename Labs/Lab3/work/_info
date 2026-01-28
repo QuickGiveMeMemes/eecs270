@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/mnt/x10/eecs270/eecs270/Projects/Project2
+vLab3
+Z0 !s110 1769638313
+!i10b 1
+!s100 aQ:11TWj[_G2i_l6B<;473
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IHC69if@<lZAg=eel:faCH3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/mnt/x10/eecs270/eecs270/Labs/Lab3
+w1769637187
+8/mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3.v
+F/mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3.v
+!i122 0
+L0 1 26
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1769638312.000000
+!s107 /mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@lab3
+vLab3Testbench
+R0
+!i10b 1
+!s100 z5Y]:3P;28MWOg^HV25ZL2
+R1
+I>Tkf<F?L:8OLES<V0C8Y_0
+R2
+R3
+w1769638229
+8/mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3Testbench.v
+F/mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3Testbench.v
+!i122 1
+L0 3 38
+R4
+r1
+!s85 0
+31
+Z7 !s108 1769638313.000000
+!s107 /mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3Testbench.v|
+!i113 1
+R5
+R6
+n@lab3@testbench
+vMegaComparator
+R0
+!i10b 1
+!s100 X_kiN4Ji[L7@8KbjXg5Po1
+R1
+IQgMlVY^nZQoW7PEl4Y8PX0
+R2
+R3
+w1769636698
+8/mnt/x10/eecs270/eecs270/Labs/Lab3/MegaComparator.v
+F/mnt/x10/eecs270/eecs270/Labs/Lab3/MegaComparator.v
+!i122 2
+L0 1 35
+R4
+r1
+!s85 0
+31
+R7
+!s107 /mnt/x10/eecs270/eecs270/Labs/Lab3/MegaComparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Labs/Lab3/MegaComparator.v|
+!i113 1
+R5
+R6
+n@mega@comparator

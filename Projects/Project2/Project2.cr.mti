@@ -1,0 +1,64 @@
+/mnt/x10/eecs270/eecs270/Projects/Project2/Project2A.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project2/Project2A.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Project2A
+
+Top level modules:
+	Project2A
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2A.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2A.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Testbench2A
+
+Top level modules:
+	Testbench2A
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project2/Robbie.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project2/Robbie.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Robbie
+
+Top level modules:
+	Robbie
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project2/Project2B.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project2/Project2B.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Project2B
+
+Top level modules:
+	Project2B
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project2/Renee.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project2/Renee.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Renee
+
+Top level modules:
+	Renee
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2B.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2B.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TestBench2B
+
+Top level modules:
+	TestBench2B
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project2/RobbieAction.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project2/RobbieAction.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RobbieAction
+
+Top level modules:
+	RobbieAction
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project2/SEL1.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project2/SEL1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SEL1
+
+Top level modules:
+	SEL1
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project2/ReneeAction.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project2/ReneeAction.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ReneeAction
+
+Top level modules:
+	ReneeAction
+
+} {} {}}

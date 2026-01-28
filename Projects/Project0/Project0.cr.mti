@@ -1,0 +1,15 @@
+/mnt/x10/eecs270/eecs270/Projects/Project0/Majority.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project0/Majority.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Majority
+
+Top level modules:
+	Majority
+
+} {} {}} /mnt/x10/eecs270/eecs270/Projects/Project0/Project0.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Projects/Project0/Project0.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Project0
+
+Top level modules:
+	Project0
+
+} {} {}}

@@ -1,0 +1,251 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/mnt/x10/eecs270/eecs270/Labs/Lab2
+vProject2A
+Z0 !s110 1769118374
+!i10b 1
+!s100 N18NEWM7Ml[zh`h?zd7CD2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IHD7zQ:j_aG4W`LB0d4ZBe3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/mnt/x10/eecs270/eecs270/Projects/Project2
+w1769107800
+8/mnt/x10/eecs270/eecs270/Projects/Project2/Project2A.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/Project2A.v
+!i122 35
+L0 2 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1769118374.000000
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/Project2A.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/Project2A.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@project2@a
+vProject2B
+R0
+!i10b 1
+!s100 <BVE]l`KKEm0c=I72GnMX3
+R1
+IETDh<gNfJFcWad`WeR;gG3
+R2
+R3
+w1769116617
+8/mnt/x10/eecs270/eecs270/Projects/Project2/Project2B.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/Project2B.v
+!i122 36
+L0 2 12
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/Project2B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/Project2B.v|
+!i113 1
+R6
+R7
+n@project2@b
+vRenee
+R0
+!i10b 1
+!s100 34gCcoPW5oRfLlV]OE4b70
+R1
+IA`JKaTF``L687EfLczUN`1
+R2
+R3
+w1769118345
+8/mnt/x10/eecs270/eecs270/Projects/Project2/Renee.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/Renee.v
+!i122 37
+L0 2 58
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/Renee.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/Renee.v|
+!i113 1
+R6
+R7
+n@renee
+vReneeAction
+R0
+!i10b 1
+!s100 LjXYC5LZGFRQkZmOXH8o00
+R1
+IA>K?Q3L@lBP^5mjRMZb9:2
+R2
+R3
+w1769116096
+8/mnt/x10/eecs270/eecs270/Projects/Project2/ReneeAction.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/ReneeAction.v
+!i122 38
+L0 3 13
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/ReneeAction.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/ReneeAction.v|
+!i113 1
+R6
+R7
+n@renee@action
+vRobbie
+R0
+!i10b 1
+!s100 T7faXdQ?LX9^VaS2]Ff_H1
+R1
+IgMX>2U3O@1EX_AhUo<=mB1
+R2
+R3
+w1769106462
+8/mnt/x10/eecs270/eecs270/Projects/Project2/Robbie.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/Robbie.v
+!i122 39
+L0 2 13
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/Robbie.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/Robbie.v|
+!i113 1
+R6
+R7
+n@robbie
+vRobbieAction
+R0
+!i10b 1
+!s100 cNWQk>]c9VS_zY7NbcGUl0
+R1
+I`V@APf7BgCYeUHAeMi?=?0
+R2
+R3
+w1769110854
+8/mnt/x10/eecs270/eecs270/Projects/Project2/RobbieAction.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/RobbieAction.v
+!i122 40
+L0 3 34
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/RobbieAction.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/RobbieAction.v|
+!i113 1
+R6
+R7
+n@robbie@action
+vSEL1
+R0
+!i10b 1
+!s100 6_@cO@a;QIAW[DiOVB7[h0
+R1
+I4AHY1U]7>@1Mk>MZnlo@d0
+R2
+R3
+w1769106005
+8/mnt/x10/eecs270/eecs270/Projects/Project2/SEL1.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/SEL1.v
+!i122 41
+L0 3 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/SEL1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/SEL1.v|
+!i113 1
+R6
+R7
+n@s@e@l1
+vTestbench2A
+R0
+!i10b 1
+!s100 ;ZOR40M=O<D]`2?4[^BXY3
+R1
+I003P=88_ZzSP;5lkCD`im2
+R2
+R3
+w1769110230
+8/mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2A.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2A.v
+!i122 42
+L0 3 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2A.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2A.v|
+!i113 1
+R6
+R7
+n@testbench2@a
+vTestBench2B
+R0
+!i10b 1
+!s100 61TS[3D>oB91cbHSb:k0H1
+R1
+I4ZOKDl9^?7MjmNW8Ck@iB1
+R2
+R3
+w1769117564
+8/mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2B.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2B.v
+!i122 43
+L0 3 54
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/TestBench2B.v|
+!i113 1
+R6
+R7
+n@test@bench2@b
+vunsignedComp
+R0
+!i10b 1
+!s100 nL:DEioVia6E?6M>?4DIz2
+R1
+ILUY49H6I@h__^=[8PUmFH2
+R2
+R3
+w1769112542
+8/mnt/x10/eecs270/eecs270/Projects/Project2/unsignedComp.v
+F/mnt/x10/eecs270/eecs270/Projects/Project2/unsignedComp.v
+!i122 44
+L0 3 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Projects/Project2/unsignedComp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Projects/Project2/unsignedComp.v|
+!i113 1
+R6
+R7
+nunsigned@comp

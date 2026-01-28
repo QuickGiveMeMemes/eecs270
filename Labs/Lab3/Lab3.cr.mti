@@ -1,0 +1,22 @@
+/mnt/x10/eecs270/eecs270/Labs/Lab3/MegaComparator.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Labs/Lab3/MegaComparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MegaComparator
+
+Top level modules:
+	MegaComparator
+
+} {} {}} /mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3Testbench.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3Testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Lab3Testbench
+
+Top level modules:
+	Lab3Testbench
+
+} {} {}} /mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Labs/Lab3/Lab3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Lab3
+
+Top level modules:
+	Lab3
+
+} {} {}}

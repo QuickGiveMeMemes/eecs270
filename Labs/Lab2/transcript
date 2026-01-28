@@ -1,0 +1,217 @@
+# Loading project Lab2
+# reading /mnt/x10/eecs270/modelsim/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project Project2
+# Compile of Project2A.v was successful.
+# Compile of Robbie.v was successful.
+# Compile of RobbieAction.v failed with 1 errors.
+# Compile of SEL1.v was successful.
+# Compile of TestBench2A.v was successful.
+# 5 compiles, 1 failed with 1 error.
+# Compile of RobbieAction.v failed with 1 errors.
+# Compile of RobbieAction.v was successful.
+vsim work.Testbench2A
+# vsim work.Testbench2A 
+# Start time: 10:58:56 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Project2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+run
+# Compile of TestBench2A.v was successful.
+vsim work.Testbench2A
+# End time: 11:02:59 on Jan 22,2026, Elapsed time: 0:04:03
+# Errors: 0, Warnings: 8
+# vsim work.Testbench2A 
+# Start time: 11:02:59 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+run
+# Compile of RobbieAction.v failed with 4 errors.
+# Compile of RobbieAction.v failed with 2 errors.
+# Compile of RobbieAction.v failed with 4 errors.
+# Compile of RobbieAction.v failed with 4 errors.
+# Compile of RobbieAction.v failed with 2 errors.
+# Compile of RobbieAction.v was successful.
+vsim work.Testbench2A
+# End time: 11:12:24 on Jan 22,2026, Elapsed time: 0:09:25
+# Errors: 0, Warnings: 7
+# vsim work.Testbench2A 
+# Start time: 11:12:24 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+run
+# Compile of RobbieAction.v was successful.
+vsim work.Testbench2A
+# End time: 11:13:25 on Jan 22,2026, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 2
+# vsim work.Testbench2A 
+# Start time: 11:13:25 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+run
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+run
+vsim work.Testbench2A
+# End time: 11:14:49 on Jan 22,2026, Elapsed time: 0:01:24
+# Errors: 0, Warnings: 1
+# vsim work.Testbench2A 
+# Start time: 11:14:49 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+run
+# Compile of ReneeAction.v was successful.
+vsim work.Testbench2A
+# End time: 11:18:59 on Jan 22,2026, Elapsed time: 0:04:10
+# Errors: 0, Warnings: 2
+# vsim work.Testbench2A 
+# Start time: 11:18:59 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+run
+vsim work.Testbench2A
+# End time: 11:23:03 on Jan 22,2026, Elapsed time: 0:04:04
+# Errors: 0, Warnings: 1
+# vsim work.Testbench2A 
+# Start time: 11:23:03 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+# Compile of TestBench2A.v was successful.
+vsim work.Testbench2A
+# End time: 11:27:14 on Jan 22,2026, Elapsed time: 0:04:11
+# Errors: 0, Warnings: 2
+# vsim work.Testbench2A 
+# Start time: 11:27:14 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+add wave -position end  sim:/Testbench2A/test1
+add wave -position end  sim:/Testbench2A/a
+add wave -position end  sim:/Testbench2A/b
+add wave -position end  sim:/Testbench2A/res
+run
+# Compile of TestBench2A.v was successful.
+vsim work.Testbench2A
+# End time: 11:30:59 on Jan 22,2026, Elapsed time: 0:03:45
+# Errors: 0, Warnings: 2
+# vsim work.Testbench2A 
+# Start time: 11:30:59 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+add wave -position end  sim:/Testbench2A/test1
+add wave -position end  sim:/Testbench2A/out
+run
+# Compile of RobbieAction.v was successful.
+vsim work.Testbench2A
+# End time: 11:32:57 on Jan 22,2026, Elapsed time: 0:01:58
+# Errors: 0, Warnings: 2
+# vsim work.Testbench2A 
+# Start time: 11:32:57 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+add wave -position end  sim:/Testbench2A/test1
+add wave -position end  sim:/Testbench2A/out
+# Compile of RobbieAction.v was successful.
+run
+# Compile of RobbieAction.v was successful.
+vsim work.Testbench2A
+# End time: 11:39:34 on Jan 22,2026, Elapsed time: 0:06:37
+# Errors: 0, Warnings: 3
+# vsim work.Testbench2A 
+# Start time: 11:39:34 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+add wave -position end  sim:/Testbench2A/test1
+add wave -position end  sim:/Testbench2A/out
+run
+# Compile of RobbieAction.v was successful.
+vsim work.Testbench2A
+# End time: 11:41:18 on Jan 22,2026, Elapsed time: 0:01:44
+# Errors: 0, Warnings: 2
+# vsim work.Testbench2A 
+# Start time: 11:41:18 on Jan 22,2026
+# Loading work.Testbench2A
+# Loading work.Robbie
+# Loading work.RobbieAction
+# Loading work.SEL1
+add wave -position end  sim:/Testbench2A/SW
+add wave -position end  sim:/Testbench2A/HEX1
+add wave -position end  sim:/Testbench2A/HEX0
+add wave -position end  sim:/Testbench2A/lwa
+add wave -position end  sim:/Testbench2A/rwa
+add wave -position end  sim:/Testbench2A/test1
+add wave -position end  sim:/Testbench2A/out
+run
+# End time: 11:52:11 on Jan 22,2026, Elapsed time: 0:10:53
+# Errors: 0, Warnings: 1

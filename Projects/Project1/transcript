@@ -1,50 +1,47 @@
 # Loading project Project1
 # Compile of Project1.v was successful.
-# Compile of SEL1.v failed with 1 errors.
-# Compile of Selector.v was successful.
-# Compile of TestBench1.v was successful with warnings.
-# 4 compiles, 1 failed with 1 error.
-# Compile of Project1.v was successful.
-# Compile of SEL1.v was successful.
-# Compile of Selector.v was successful.
-# Compile of TestBench1.v was successful with warnings.
-# 4 compiles, 0 failed with no errors.
-# Compile of Project1.v was successful.
 # Compile of SEL1.v was successful.
 # Compile of Selector.v was successful.
 # Compile of TestBench1.v was successful.
 # 4 compiles, 0 failed with no errors.
 vsim work.TestBench1
 # vsim work.TestBench1 
-# Start time: 16:11:30 on Jan 07,2026
+# Start time: 13:49:58 on Jan 14,2026
 # Loading work.TestBench1
 # Loading work.Selector
 # Loading work.SEL1
-add wave -position insertpoint  \
-sim:/TestBench1/KEY \
-sim:/TestBench1/SW \
-sim:/TestBench1/LEDR \
-sim:/TestBench1/HEX0
-run
-# Compile of Project1.v was successful.
-# Compile of SEL1.v was successful.
-# Compile of Selector.v was successful.
-# Compile of TestBench1.v was successful.
-# 4 compiles, 0 failed with no errors.
 run
 run
-# Compile of TestBench1.v was successful.
-vsim work.TestBench1
-# End time: 16:21:51 on Jan 07,2026, Elapsed time: 0:10:21
-# Errors: 0, Warnings: 7
-# vsim work.TestBench1 
-# Start time: 16:21:51 on Jan 07,2026
-# Loading work.TestBench1
-# Loading work.Selector
-# Loading work.SEL1
 add wave -position end  sim:/TestBench1/KEY
 add wave -position end  sim:/TestBench1/SW
 add wave -position end  sim:/TestBench1/LEDR
+add wave -position end  sim:/TestBench1/HEX0
 run
-# End time: 16:31:22 on Jan 07,2026, Elapsed time: 0:09:31
-# Errors: 0, Warnings: 1
+run
+# End time: 13:52:51 on Jan 14,2026, Elapsed time: 0:02:53
+# Errors: 0, Warnings: 2
+# Closing project /mnt/x10/eecs270/eecs270/Projects/Project1/Project1.mpf
+# reading /mnt/x10/eecs270/modelsim/modelsim_ase/linuxaloem/../modelsim.ini
+cd /mnt/x10/eecs270/eecs270/Projects/Project0
+# Error opening /mnt/x10/eecs270/eecs270/Project0/Majority.v
+# Path name '/mnt/x10/eecs270/eecs270/Project0/Majority.v' doesn't exist.
+# Error opening /mnt/x10/eecs270/eecs270/Project0/Project0.v
+# Path name '/mnt/x10/eecs270/eecs270/Project0/Project0.v' doesn't exist.
+# Error opening /mnt/x10/eecs270/eecs270/Project0/TestBench0.v
+# Path name '/mnt/x10/eecs270/eecs270/Project0/TestBench0.v' doesn't exist.
+# Loading project Project0
+# 0 compiles, 3 failed with no errors.
+# Compile of Majority.v was successful.
+# Compile of Project0.v was successful.
+# Compile of TestBench0.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.TestBench0
+# vsim work.TestBench0 
+# Start time: 14:14:33 on Jan 14,2026
+# Loading work.TestBench0
+# Loading work.Majority
+add wave -position end  sim:/TestBench0/SW
+add wave -position end  sim:/TestBench0/LEDG
+run
+# End time: 14:50:41 on Jan 14,2026, Elapsed time: 0:36:08
+# Errors: 0, Warnings: 5

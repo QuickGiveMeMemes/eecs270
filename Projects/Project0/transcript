@@ -1,1 +1,29 @@
 # Loading project Project0
+# reading /mnt/x10/eecs270/modelsim/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project Lab2
+# Compile of evenParity.v was successful.
+# Compile of evenTestbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.evenTestbench
+# vsim work.evenTestbench 
+# Start time: 14:18:10 on Jan 21,2026
+# Loading work.evenTestbench
+# Loading work.evenParity
+add wave -position end  sim:/evenTestbench/IN
+add wave -position end  sim:/evenTestbench/P
+run
+# Compile of evenParity.v was successful.
+# Compile of evenTestbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.evenTestbench
+# End time: 14:22:27 on Jan 21,2026, Elapsed time: 0:04:17
+# Errors: 0, Warnings: 6
+# vsim work.evenTestbench 
+# Start time: 14:22:27 on Jan 21,2026
+# Loading work.evenTestbench
+# Loading work.evenParity
+add wave -position end  sim:/evenTestbench/IN
+add wave -position end  sim:/evenTestbench/P
+run
+# End time: 14:41:17 on Jan 21,2026, Elapsed time: 0:18:50
+# Errors: 0, Warnings: 1

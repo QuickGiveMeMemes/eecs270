@@ -1,0 +1,15 @@
+/mnt/x10/eecs270/eecs270/Labs/Lab2/evenTestbench.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Labs/Lab2/evenTestbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module evenTestbench
+
+Top level modules:
+	evenTestbench
+
+} {} {}} /mnt/x10/eecs270/eecs270/Labs/Lab2/evenParity.v {1 {vlog -work work -stats=none /mnt/x10/eecs270/eecs270/Labs/Lab2/evenParity.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module evenParity
+
+Top level modules:
+	evenParity
+
+} {} {}}

@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/mnt/x10/eecs270/eecs270/Projects/Project0
+vevenParity
+Z0 !s110 1769034122
+!i10b 1
+!s100 U5^kWK;jf]?X8SgIoohYK0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`<[`K8fKnfdLbL<CLj0j[3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/mnt/x10/eecs270/eecs270/Labs/Lab2
+w1769034106
+8/mnt/x10/eecs270/eecs270/Labs/Lab2/evenParity.v
+F/mnt/x10/eecs270/eecs270/Labs/Lab2/evenParity.v
+!i122 2
+L0 2 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1769034122.000000
+!s107 /mnt/x10/eecs270/eecs270/Labs/Lab2/evenParity.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Labs/Lab2/evenParity.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+neven@parity
+vevenTestbench
+R0
+!i10b 1
+!s100 KLbR;ChQOJVGleL619caD3
+R1
+IclbnGYEP=[WA5nY[D=FZk3
+R2
+R3
+w1769033718
+8/mnt/x10/eecs270/eecs270/Labs/Lab2/evenTestbench.v
+F/mnt/x10/eecs270/eecs270/Labs/Lab2/evenTestbench.v
+!i122 3
+L0 3 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 /mnt/x10/eecs270/eecs270/Labs/Lab2/evenTestbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/mnt/x10/eecs270/eecs270/Labs/Lab2/evenTestbench.v|
+!i113 1
+R6
+R7
+neven@testbench

@@ -1,0 +1,29 @@
+# Loading project Project2
+# reading /mnt/x10/eecs270/modelsim/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project Lab3
+# Compile of Lab3.v was successful.
+# Compile of Lab3Testbench.v was successful.
+# Compile of MegaComparator.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.Lab3Testbench
+# vsim work.Lab3Testbench 
+# Start time: 14:12:04 on Jan 28,2026
+# Loading work.Lab3Testbench
+# Loading work.Lab3
+# Loading work.MegaComparator
+add wave -position end  sim:/Lab3Testbench/HEX_G
+add wave -position end  sim:/Lab3Testbench/HEX_L
+add wave -position end  sim:/Lab3Testbench/HEX_E
+add wave -position end  sim:/Lab3Testbench/SW
+add wave -position end  sim:/Lab3Testbench/LEDR
+add wave -position end  sim:/Lab3Testbench/HEX0
+add wave -position end  sim:/Lab3Testbench/exp_gt
+add wave -position end  sim:/Lab3Testbench/exp_ge
+add wave -position end  sim:/Lab3Testbench/exp_lt
+add wave -position end  sim:/Lab3Testbench/exp_le
+add wave -position end  sim:/Lab3Testbench/exp_eq
+add wave -position end  sim:/Lab3Testbench/exp_ne
+add wave -position end  sim:/Lab3Testbench/exp_hex
+run
+# End time: 14:37:59 on Jan 28,2026, Elapsed time: 0:25:55
+# Errors: 0, Warnings: 5
